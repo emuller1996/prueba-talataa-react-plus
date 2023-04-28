@@ -10,8 +10,10 @@
     "bootstrap": "^5.2.3",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.4",
+    "react-datepicker": "^4.11.0",
     "react-dom": "^18.2.0",
     "react-html5video": "^2.5.1",
+    "react-paginate": "^8.2.0",
     "react-scripts": "5.0.1",
     "styled-components": "^5.3.10",
     "web-vitals": "^2.1.4"

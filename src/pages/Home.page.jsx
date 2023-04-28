@@ -13,7 +13,7 @@ export default function HomePage() {
       <div className="container mt-5">
         <div className="row g-4">
           <div className="col-md-4">
-            <div class="card text-start">
+            <div class="card text-start my-shadow">
               <div class="card-body">
                 <h4 class="card-title">VIDEO APP ANDROID</h4>
 
@@ -46,7 +46,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="col-md-8">
-            <div class="card text-start">
+            <div class="card text-start my-shadow">
               <div class="card-body">
                 <h4 class="card-title">Lista Asteroides</h4>
                 <hr />

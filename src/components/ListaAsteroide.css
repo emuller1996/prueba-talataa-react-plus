@@ -1,11 +1,16 @@
 .card-asteroide{
-    background-color: azure;
+    background: rgb(92,150,255);
+background: radial-gradient(circle, rgba(92,150,255,0.29175420168067223) 0%, rgba(129, 129, 129, 0.163) 100%);
     box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  border: 1px solid rgba(92, 150, 255, 0.48503151260504207) !important;
+
 }
 
 .card-asteroide:hover{
     background-color: rgb(211, 230, 255);
     box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  border: 1px solid rgba(92, 150, 255, 0.48503151260504207) !important;
+
 }
 .fs-7{
     font-size: small;
